@@ -38,8 +38,11 @@ def main():
 
             axs_output[i_m, j_m].imshow(output[0])
             axs_output[i_m, j_m].axis('off')
+            axs_output[i_m, j_m].set_title(f'm = {m}, sig = {sig}')
+
             axs_filter[i_m, j_m].imshow(filter[:,:,0,0])
             axs_filter[i_m, j_m].axis('off')
+            axs_filter[i_m, j_m].set_title(f'm = {m}, sig = {sig}')
 
     plt.show()
 
