@@ -1,9 +1,18 @@
-# ITE4052
-**Computer Vision**, Fall 2020.
+# ITE4052: Computer Vision
+![](rsrc/Untitled.jpg)
 
-- **[HW #1:](hw1)** Image convolution with gaussian filter.  
-  [[spec]](hw1/doc/spec.pdf) [[report]](hw1/doc/report.pdf)
-- **[HW #2:](hw2)** Feature detection - Harris corner detector.  
-  [[spec]](hw2/doc/spec.pdf) [[report]](hw2/doc/report.pdf)
-- **[Final:](final)** Finding eigenfaces on MNIST.  
-  [[spec]](final/doc/spec.pdf) [[report]](final/doc/report.pdf)
+### [HW1:](hw1) Image Convolution with Gaussian Filter.
+
+[[specification]](hw1/doc/spec.pdf) [[report]](hw1/doc/report.pdf)  
+Got score of 100/100.
+
+### [HW2:](hw2) Feature Detection with Harris Corner Detection.  
+[[specification]](hw2/doc/spec.pdf) [[report]](hw2/doc/report.pdf)  
+Got score of 100/100.
+
+### [Final:](final) Finding eigenfaces on MNIST.  
+[[specification]](final/doc/spec.pdf) [[report]](final/doc/report.pdf)  
+Got score of 100/100.
+
+
+
