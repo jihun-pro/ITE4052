@@ -5,4 +5,5 @@
   [[spec]](hw1/doc/spec.pdf) [[report]](hw1/doc/report.pdf)
 - **[HW #2:](hw2)** Feature detection - Harris corner detector.  
   [[spec]](hw2/doc/spec.pdf) [[report]](hw2/doc/report.pdf)
- 
+- **[Final](final)** Finding eigenfaces on MNIST.  
+  [[spec]](hw3/doc/spec.pdf) [[report]](hw3/doc/report.pdf)
