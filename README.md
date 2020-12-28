@@ -1,4 +1,6 @@
 # ITE4052: Computer Vision
+Fall 2020, Hanyang University.  
+  
 ![](rsrc/Untitled.jpg)
 
 ### [HW1:](hw1) Image Convolution with Gaussian Filter.
